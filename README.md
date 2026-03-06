@@ -1,1 +1,2 @@
-# Stone-Paper-Scissor
+# Stone-Paper-Scissor Game
+This project is a Stone Paper Scissor game developed using HTML, CSS and JavaScript. The player selects stone, paper, or scissors while the computer randomly generates its choice. The game then compares both selections and displays the result (win, lose, or draw). It is a beginner-friendly project that demonstrates basic JavaScript concepts such as event handling, random number generation, and DOM manipulation.
